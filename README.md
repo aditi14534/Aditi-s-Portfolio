@@ -32,4 +32,4 @@ It serves as a central place for anyone to explore my work and connect with me.
 ---
 
 ## 🔗 Live Demo
-[Click here to view my portfolio](https://your-netlify-or-github-pages-link.com)
+[Click here to view my portfolio](https://aditi2025-portfolio.netlify.app/)
